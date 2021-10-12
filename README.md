@@ -11,5 +11,4 @@ Skills: REACT / JS /REACT NATIVE/ HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashi7)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akashi7&show_icons=true)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5cbc0c92-da1f-459f-9d9d-78135bb5fac0/deploy-status)](https://app.netlify.com/sites/audioshic/deploys)
 
