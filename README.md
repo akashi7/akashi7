@@ -1,6 +1,6 @@
-### Hi there 👋, my name is christian
+### Hi there 👋, the name  is kabuto christian
 #### web and mobile applications developer 
-I'm christian and am a full-stack developer and a mobile developer eager to contribute my skills to the society, i like learning new stacks every day , i love watching anime, football and movies😊
+am a software developer eager to contribute my skills to the society, i like learning new stacks every day , i love watching anime, football and movies😊
 
 Skills: REACT / JS /REACT NATIVE/ HTML / CSS
 
